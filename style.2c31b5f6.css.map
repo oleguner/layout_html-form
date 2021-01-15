@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,eACF,CAEA,MACE,eACF,CAEA,QACE,UACF,CAEA,MACE,UACF","file":"style.2c31b5f6.css","sourceRoot":"..\\src","sourcesContent":[".block {\n  margin-top: 20px;\n}\n\n.wrap {\n  margin-top: 10px;\n}\n\n#number {\n  width: 65px;\n}\n\n#time {\n  width: 98px;\n}\n"]}
